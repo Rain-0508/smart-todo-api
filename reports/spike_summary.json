@@ -1,0 +1,147 @@
+{
+    "metrics": {
+        "http_req_failed": {
+            "passes": 0,
+            "fails": 5786,
+            "thresholds": {
+                "rate<0.10": false
+            },
+            "value": 0
+        },
+        "http_req_tls_handshaking": {
+            "min": 0,
+            "med": 0,
+            "p(90)": 0,
+            "p(95)": 0,
+            "max": 0,
+            "avg": 0
+        },
+        "http_req_receiving": {
+            "avg": 0.21719045973038373,
+            "min": 0.014,
+            "med": 0.0475,
+            "p(90)": 0.785500000000001,
+            "p(95)": 1.4882499999999994,
+            "max": 6.657
+        },
+        "data_received": {
+            "count": 1223139,
+            "rate": 10145.519822905731
+        },
+        "iterations": {
+            "count": 5786,
+            "rate": 47.992891809788226
+        },
+        "http_req_waiting": {
+            "med": 2.4625000000000004,
+            "p(90)": 4.642,
+            "p(95)": 5.467249999999999,
+            "max": 15.51,
+            "avg": 2.912647943311443,
+            "min": 1.101
+        },
+        "http_req_sending": {
+            "p(95)": 0.049,
+            "max": 2.469,
+            "avg": 0.027699619771863308,
+            "min": 0.006,
+            "med": 0.024,
+            "p(90)": 0.039
+        },
+        "http_reqs": {
+            "count": 5786,
+            "rate": 47.992891809788226
+        },
+        "http_req_connecting": {
+            "max": 4.614,
+            "avg": 0.304474421016247,
+            "min": 0.087,
+            "med": 0.275,
+            "p(90)": 0.395,
+            "p(95)": 0.451
+        },
+        "vus_max": {
+            "value": 100,
+            "min": 100,
+            "max": 100
+        },
+        "http_req_duration{expected_response:true}": {
+            "avg": 3.1575380228136924,
+            "min": 1.173,
+            "med": 2.9255,
+            "p(90)": 5.011500000000001,
+            "p(95)": 5.87175,
+            "max": 16.398
+        },
+        "iteration_duration": {
+            "min": 1001.489125,
+            "med": 1003.7522915,
+            "p(90)": 1005.886104,
+            "p(95)": 1006.95336475,
+            "max": 1018.440583,
+            "avg": 1004.0971793273394
+        },
+        "http_req_blocked": {
+            "max": 4.783,
+            "avg": 0.33356861389561066,
+            "min": 0.106,
+            "med": 0.302,
+            "p(90)": 0.426,
+            "p(95)": 0.49074999999999974
+        },
+        "http_req_duration": {
+            "avg": 3.1575380228136924,
+            "min": 1.173,
+            "med": 2.9255,
+            "p(90)": 5.011500000000001,
+            "p(95)": 5.87175,
+            "max": 16.398,
+            "thresholds": {
+                "p(95)<2000": false
+            }
+        },
+        "vus": {
+            "min": 1,
+            "max": 100,
+            "value": 1
+        },
+        "data_sent": {
+            "count": 949754,
+            "rate": 7877.884716196613
+        },
+        "checks": {
+            "passes": 17358,
+            "fails": 0,
+            "value": 1
+        }
+    },
+    "root_group": {
+        "id": "d41d8cd98f00b204e9800998ecf8427e",
+        "groups": {},
+        "checks": {
+                "predict status is 200": {
+                    "name": "predict status is 200",
+                    "path": "::predict status is 200",
+                    "id": "d955a81f2c61867f0f4fe9033ec69a47",
+                    "passes": 5786,
+                    "fails": 0
+                },
+                "predict returns priority": {
+                    "name": "predict returns priority",
+                    "path": "::predict returns priority",
+                    "id": "0725117c9d76f6bcedc3eccb72506a79",
+                    "passes": 5786,
+                    "fails": 0
+                },
+                "predict returns confidence": {
+                    "name": "predict returns confidence",
+                    "path": "::predict returns confidence",
+                    "id": "895fae677319a5da43dbff5061e3db5a",
+                    "passes": 5786,
+                    "fails": 0
+                }
+            },
+        "name": "",
+        "path": ""
+    }
+}

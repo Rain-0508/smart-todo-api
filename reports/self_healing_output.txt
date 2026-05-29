@@ -1,0 +1,7 @@
+Self-healing test passed.
+Health endpoint status: 200
+Predict endpoint resolved fields: priority=priority, confidence=confidence
+Priority value: High
+Confidence value: 0.63
+Report saved to: reports/self_healing_report.json
+Alias self-check warnings observed: 3

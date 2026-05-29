@@ -1,0 +1,81 @@
+{
+  "base_url": "http://127.0.0.1:5000",
+  "self_healing_rules": {
+    "priority": [
+      "priority",
+      "level",
+      "urgency",
+      "rank"
+    ],
+    "confidence": [
+      "confidence",
+      "probability",
+      "score",
+      "certainty"
+    ]
+  },
+  "live_api_test": {
+    "health": {
+      "status_code": 200,
+      "body": {
+        "status": "ok"
+      }
+    },
+    "predict": {
+      "status_code": 200,
+      "body": {
+        "confidence": 0.63,
+        "priority": "High"
+      },
+      "resolved_priority_field": "priority",
+      "resolved_confidence_field": "confidence",
+      "priority": "High",
+      "confidence": 0.63,
+      "warnings": []
+    }
+  },
+  "alias_self_checks": [
+    {
+      "sample": "canonical_fields",
+      "payload": {
+        "priority": "High",
+        "confidence": 0.87
+      },
+      "resolved_priority_field": "priority",
+      "resolved_confidence_field": "confidence",
+      "priority": "High",
+      "confidence": 0.87,
+      "warnings": []
+    },
+    {
+      "sample": "priority_alias_fields",
+      "payload": {
+        "level": "Medium",
+        "confidence": 0.51
+      },
+      "resolved_priority_field": "level",
+      "resolved_confidence_field": "confidence",
+      "priority": "Medium",
+      "confidence": 0.51,
+      "warnings": [
+        "Field `priority` missing. Fell back to `level` automatically."
+      ]
+    },
+    {
+      "sample": "multiple_alias_fields",
+      "payload": {
+        "urgency": "Low",
+        "score": 0.18
+      },
+      "resolved_priority_field": "urgency",
+      "resolved_confidence_field": "score",
+      "priority": "Low",
+      "confidence": 0.18,
+      "warnings": [
+        "Field `priority` missing. Fell back to `urgency` automatically.",
+        "Field `confidence` missing. Fell back to `score` automatically."
+      ]
+    }
+  ],
+  "status": "passed"
+}

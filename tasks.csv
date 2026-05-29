@@ -1,0 +1,201 @@
+task,priority
+Fix production bug,High
+Resolve customer outage,High
+Submit tax filing today,High
+Prepare board presentation,High
+Patch security vulnerability,High
+Respond to legal deadline,High
+Ship payroll corrections,High
+Finish investor update tonight,High
+Restore failed database backup,High
+Handle urgent client escalation,High
+Review critical pull request,High
+Deploy hotfix for login issue,High
+Finalize contract before deadline,High
+Call hospital insurance office,High
+Pay overdue electricity bill,High
+Prepare quarterly report,High
+Fix broken payment flow,High
+Investigate production latency spike,High
+Submit grant application,High
+Complete audit response,High
+Renew expired SSL certificate,High
+Draft incident postmortem,High
+Resolve merge conflict blocking release,High
+Finish performance review by tonight,High
+Escalate failed order sync,High
+Replace compromised API key,High
+Prepare launch checklist,High
+Send revised budget to CFO,High
+Update privacy policy for release,High
+Troubleshoot mobile app crash,High
+Review on-call alerts,High
+Confirm venue payment today,High
+Complete visa renewal documents,High
+Fix broken CI pipeline,High
+Handle refund dispute,High
+Respond to regulator request,High
+Prepare emergency staffing plan,High
+Update customer SLA breach report,High
+Recover deleted project files,High
+Submit final exam registration,High
+Fix broken analytics event tracking,High
+Complete month-end close tasks,High
+Resolve failed Kubernetes rollout,High
+Address phishing incident,High
+Create disaster recovery checklist,High
+Confirm tax invoice submission,High
+Repair checkout bug on homepage,High
+Review release blocker tickets,High
+Prepare deadline extension request,High
+Send urgent renewal notice,High
+Patch server memory leak,High
+Handle priority support ticket,High
+Finish compliance training today,High
+Resolve warehouse shipment delay,High
+Approve payroll by noon,High
+Restart failed background workers,High
+Investigate missing customer invoices,High
+Submit patent paperwork,High
+Fix failing backup job,High
+Prepare contract redlines,High
+Renew domain before expiration,High
+Review security audit findings,High
+Resolve API timeout errors,High
+Finalize hiring offer today,High
+Address failed data migration,High
+Prepare incident communication,High
+Review executive memo,High
+Correct billing calculation bug,High
+Send outage follow-up email,High
+Complete release sign-off,High
+Book team lunch,Medium
+Plan sprint retrospective,Medium
+Organize team workshop,Medium
+Refactor notification service,Medium
+Update project roadmap,Medium
+Schedule dentist appointment,Medium
+Write onboarding checklist,Medium
+Prepare demo environment,Medium
+Clean up stale feature flags,Medium
+Review Q2 hiring plan,Medium
+Update CRM contact notes,Medium
+Order office supplies,Medium
+Draft blog post outline,Medium
+Review design mockups,Medium
+Document API authentication flow,Medium
+Plan social media calendar,Medium
+Book travel for conference,Medium
+Update sales deck,Medium
+Review monthly metrics,Medium
+Organize shared drive folders,Medium
+Create FAQ page draft,Medium
+Check budget assumptions,Medium
+Coordinate product photoshoot,Medium
+Prepare customer webinar slides,Medium
+Update team OKRs,Medium
+Review vendor proposals,Medium
+Set up interview panel,Medium
+Write release notes,Medium
+Prepare stakeholder summary,Medium
+Follow up on open invoices,Medium
+Review training materials,Medium
+Refresh landing page copy,Medium
+Schedule car maintenance,Medium
+Plan office seating changes,Medium
+Draft partnership proposal,Medium
+Update package dependencies,Medium
+Review support trends,Medium
+Create dashboard mockup,Medium
+Prepare meeting agenda,Medium
+Research competitor pricing,Medium
+Organize backlog grooming,Medium
+Update product FAQ,Medium
+Review candidate take-home project,Medium
+Improve internal wiki pages,Medium
+Plan customer interview sessions,Medium
+Check subscription usage report,Medium
+Reorder printer paper,Medium
+Prepare team celebration plan,Medium
+Update knowledge base article,Medium
+Review email campaign draft,Medium
+Compare insurance plans,Medium
+Document release process,Medium
+Coordinate office cleaning,Medium
+Research new laptop options,Medium
+Review sprint velocity,Medium
+Plan database maintenance window,Medium
+Update partner contact list,Medium
+Prepare status update for manager,Medium
+Schedule one-on-one meetings,Medium
+Review feature adoption metrics,Medium
+Organize user feedback notes,Medium
+Create meeting minutes template,Medium
+Draft user survey questions,Medium
+Clean up test accounts,Medium
+Prepare team training session,Medium
+Review procurement checklist,Medium
+Book annual health check,Medium
+Update customer success playbook,Medium
+Prepare workshop feedback form,Medium
+Audit internal permissions list,Medium
+Read newsletter,Low
+Watch product webinar,Low
+Check email,Low
+Clean desktop downloads,Low
+Read industry article,Low
+Update profile picture,Low
+Browse conference talks,Low
+Sort old screenshots,Low
+Water office plants,Low
+Read engineering blog,Low
+Archive old chat messages,Low
+Watch tutorial video,Low
+Rename loose files,Low
+Explore new note-taking app,Low
+Read team handbook,Low
+Skim release announcement,Low
+Listen to podcast episode,Low
+Test new keyboard shortcuts,Low
+Organize bookmarks,Low
+Check calendar for next week,Low
+Read book chapter,Low
+Browse design inspiration,Low
+Clean browser tabs,Low
+Update desktop wallpaper,Low
+Review saved articles,Low
+Watch recorded meetup,Low
+Declutter photo library,Low
+Read open source changelog,Low
+Try a typing practice session,Low
+Explore dashboard themes,Low
+Review personal goals list,Low
+Sort old receipts,Low
+Back up phone photos,Low
+Skim internal newsletter,Low
+Read documentation for fun,Low
+Browse team photo folder,Low
+Test new markdown editor,Low
+Watch product keynote replay,Low
+Clean up music playlists,Low
+Read travel guide,Low
+Practice spreadsheet shortcuts,Low
+Check weather for weekend,Low
+Organize sticky notes,Low
+Read saved research links,Low
+Browse icon library,Low
+Update reading list,Low
+Watch lunch and learn recording,Low
+Sort personal inbox folders,Low
+Review archived tickets,Low
+Read company all-hands recap,Low
+Try new task app features,Low
+Clean up unused apps,Low
+Skim community forum posts,Low
+Read API changelog,Low
+Browse sample dashboards,Low
+Update browser extensions,Low
+Watch beginner Python lesson,Low
+Review saved templates,Low
+Check package release notes,Low
+Organize desktop widgets,Low
